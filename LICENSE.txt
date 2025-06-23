@@ -1,0 +1,18 @@
+Team Light Bots License  
+Copyright (c) 2025 Team Light  
+
+All rights reserved.
+
+This license applies to the following Discord bots:
+- Noxy
+- LIGHT
+
+Permission is granted to use, copy, modify, and distribute this code for personal and educational purposes only, provided that:
+
+1. The bot names **Noxy** and **LIGHT** may not be used by anyone other than **Team Light** on any Discord bot or related service.
+2. You may not create, deploy, or distribute any Discord bot under the names **Noxy**, **LIGHT**, or any names that are confusingly similar.
+3. The original authorship of **Team Light** must be credited in any forks, derivatives, or modifications.
+4. You may not use this bot, code, or its derivatives for commercial purposes without express permission from **Team Light**.
+5. Any unauthorized use of the names **Noxy** or **LIGHT** may result in legal action being taken against the offending party.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
